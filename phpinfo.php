@@ -1,2 +1,2 @@
 <?php
-echo 'Hello Google Cloud';
+phpinfo();
